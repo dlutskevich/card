@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>ToDoList</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="/sass/site.min.css"
+    />
+    <style></style>
+  </head>
+
+  <body>
+    <nav class="Logo">Nice first Site</nav>
+    <div class="dva_containera">
+      <div class="container">
+        <div class="block">
+          <div class="logotip">Card Title</div>
+          <div class="information">
+            I am a very simple card. I am good at containing small bits of
+            information. I am convenient because I require little markup to use
+            effectively.
+          </div>
+          <div class="links">
+            <div class="link"><p>THIS IS A LINK</p></div>
+            <div class="link"><p>THIS IS A LINK</p></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <section id="Scripts"></section>
+  </body>
+</html>
